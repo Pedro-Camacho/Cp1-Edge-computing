@@ -22,6 +22,9 @@ Este projeto utiliza um Arduino para analisar a luminosidade do ambiente e forne
 1. Conecte cada perna positiva dos LEDs a um resistor de 1kohm.
 2. Conecte as pernas negativas dos LEDs a portas digitais diferentes do Arduino.
 
+## Link para o tinkercad
+https://www.tinkercad.com/things/j0ncgUJVKPL-cp-1-edge-computing/editel?sharecode=xnviKT7EE9BZwNVXC3sz-iJAOAKXwonALe0a7HldPp0
+
 ## Integrantes
 - Pedro Camacho de Almeida (RM 556831)
 - Isabelle Dallabeneta Carlesso (RM 554592)
